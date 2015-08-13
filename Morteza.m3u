@@ -95,9 +95,6 @@ http://81.92.105.134:5555/pl.m3u8?channel=52
 #EXTINF:-1,KABEL Eins 
 http://81.92.105.134:5555/pl.m3u8?channel=30
 
-#EXTINF:-1,FOX HD
-http://stream.primetime.to/hls/foxhd.m3u8
-
 #EXTINF:0,SERVUSTV HD 
 http://81.92.105.134:5555/pl.m3u8?channel=51
 
@@ -106,15 +103,6 @@ http://streaming-hub.com/tv/i/servus_1@97488/index_1300_av-p.m3u8
 
 #EXTINF:-1,ALEX TV 1024*576
 http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
-
-#EXTINF:-1,VOX
-http://85.13.131.108:8080
-
-#EXTINF:-1,Comedy Central
-http://81.201.52.159:8007
-
-#EXTINF:-1,Deluxe Music
-http://81.201.52.159:8006
 
 #EXTINF:-1,ANIXE
 http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
