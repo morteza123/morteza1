@@ -1,213 +1,34 @@
 #EXTM3U
-#EXTINF:-1, ITC TV
+#EXTINF:-1, IRIB TV 1 HD
+http://63.237.48.23/ios/IRIB_TV1/IRIB_TV1.m3u8
 
-http://63.237.48.3/ios/ITC/ITC.m3u8
+#EXTINF:-1, IRIB TV 2 HD
+http://63.237.48.23/ios/IRIB_TV2/IRIB_TV2.m3u8
 
-#EXTINF:-1, Irib 1
-rtmp://edge5.live.irib.ir/etv/irib1-2
-#EXTINF:-1, Irib 2
-rtmp://edge3.live.irib.ir/etv/irib2-3
-#EXTINF:-1, Irib 3
-rtmp://edge4.live.irib.ir/etv3/irib3-3
-#EXTINF:-1, Irib 4
-rtmp://edge3.live.irib.ir/etv/irib4-3
-#EXTINF:-1, Irib 5
-rtmp://edge3.live.irib.ir/etv/irib5-3
-#EXTINF:-1, Irinn TV
-rtmp://edge3.live.irib.ir/etv/irinn-3
-#EXTINF:-1, Irib Ofogh
-rtmp://edge4.live.irib.ir/etv/ofogh-3
-#EXTINF:-1,Irib 3 HD
+#EXTINF:-1, IRIB TV 3 HD
 http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
 
-#EXTINF: Irib 1 Live TV
-rtmp://159.253.149.19/etv/irib1-2  
+#EXTINF:-1, IRIB TV 4 HD
+http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
 
-#EXTINF: Irib 2 Live TV
-http://edge3.live.irib.ir:1935/etv/smil:irib2/player.m3u8
+#EXTINF:-1, IRIB TV 5 HD
+http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
 
-#EXTINF: Irib 3 - Live TV
-rtmp://159.253.149.19/etv3/irib3-3
-rtmp://77.77.77.15/tv3/irib3-3  
-
-#EXTINF: Irib 4 - Live TV
-http://edge3.live.irib.ir:1935/etv/smil:irib4/player.m3u8  
+#EXTINF:-1,Irib 3 HD
+http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
 
 #EXTINF: TV5 Tehran
 http://edge3.live.irib.ir:1935/etv/smil:irib5/player.m3u8  
 
-#EXTINF: JAME_JAM
-http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8  
-
-#EXTINF: Irinn - Live TV
-rtmp://108.168.172.165/etv/irinn-3
-http://mellitvrtmp.tulix.tv:1935/m-irinn/m-irinn.stream/playlist.m3u8
-http://63.237.48.3/ios/IRINN/IRINN.m3u8  
-
-#EXTINF: Irib Varzesh - Live TV
-rtmp://108.168.172.165/etv/varzesh-3
-rtmp://75.126.39.78/etv/varzesh-3 
-
-#EXTINF: Namayesh - Live TV
-rtmp://108.168.172.165/etv/namayesh-3  
-
-#EXTINF: Horizon
-http://edge1.livetv.irib.ir:1935/tv/smil:ofogh/player.m3u8  
-
-#EXTINF: Shoma TV
-http://edge3.live.irib.ir:1935/etv/smil:shoma/player.m3u8  
-
-#EXTINF: Mostanad
-http://edge3.live.irib.ir:1935/etv/smil:mostanad/player.m3u8  
-
-#EXTINF:Live Broadcast Network HD
-http://edge1.livetv.irib.ir:1935/tv/smil:hdtest/player.m3u8
-
-#EXTINF:AAA_FAMILY
-http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8  
-
-#EXTINF: Manoto 1
-http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8  
-
-#EXTINF: Bidari
-rtsp://bidari.streamwebtown.com/bidaritv
-
-#EXTINF: VELAYAThttp://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-
-#EXTINF: Irib 1 Live TV
-rtmp://159.253.149.19/etv/irib1-2
-
-#EXTINF: Irib 3 - Live TV
-rtmp://159.253.149.19/etv3/irib3-3
-
-#EXTINF: Irinn - Live TV
-rtmp://108.168.172.165/etv/irinn-3
-
-#EXTINF: Irib Varzesh - Live TV
-rtmp://108.168.172.165/etv/varzesh-3
-
-#EXTINF: Namayesh - Live TV
-rtmp://108.168.172.165/etv/namayesh-3
-
-#EXTINF: MTC - Live TV
-rtmp://mellitv.tulix.tv/mellitv/myStream.sdp
-
-#EXTINF: VOA Persian - Live TV
-rtmp://hd4.lsops.net/live/voiceofa_fa_485
-
-#EXTINF: Hispantv - Live TV
-rtmp://ptv-overonchlivefs.fplive.net/ptv-overonch04live-live/stream3
-
-
-
- 
-
-#EXTINF: PMC
-http://63.237.48.3/ios/PMC/PMC.m3u8
-
 #EXTINF: PMC
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
-
-#EXTINF: PMC
-rtmp://iriptv.com/iriptvserver2%20playpath=10.stream%20swfUrl=http://iriptv.com/player/player.swf%20live=true%20timeout=15%20pageUrl=http://iriptv.com/web/index.phpplayer=default  
-
-#EXTINF: Farsi 1
-http://63.237.48.3/ios/FARSI1/FARSI1.m3u8   
-
-#EXTINF: Farsi 1
-rtmp://iriptv.com/iriptvserver2 playpath=14.stream swfUrl=http://iriptv.com/player/player.swf live=true timeout=15 pageUrl=http://iriptv.com/web/index.php/?b?b*t$  
-
-#EXTINF: iriptv
-rtmp://iriptv.com/iriptvserver2%20playpath=14.stream%20swfUrl=http://iriptv.com/player/player.swf%20live=true%20timeout=15%20pageUrl=http://iriptv.com/web/index.phpplayer=default  
-
-#EXTINF: Farsi 1
-http://mellitvrtmp.tulix.tv:1935/m-farsi1/m-farsi1/playlist.m3u8 
 
 #EXTINF: MTC
 http://mellitvrtmp.tulix.tv:1935/m-mellitv/m-mellitv.stream/playlist.m3u8  
 
-#EXTINF: Melli TV
-http://mellitvrtmp.tulix.tv:1935/m-mellitv/m-mellitv.stream/playlist.m3u8  
-
-#EXTINF: Pars
-http://63.237.48.3/ios/PARSTV/PARSTV.m3u8
-http://mellitvrtmp.tulix.tv:1935/m-pars/m-pars/playlist.m3u8  
-
-#EXTINF: PRESS TV
-rtmp://ptv-overonchlivefs.fplive.net/ptv-overonch03live-live//stream3
-http://mellitvrtmp.tulix.tv:1935/m-presstv/m-presstv/playlist.m3u8  
-
 #EXTINF: RMC
 rtmp://fms.105.net/live/rmc1
 
-#EXTINF: TV Persia
-http://63.237.48.3/ios/TVP/TVP.m3u8
-
-#EXTINF: Persian Movie
-http://63.237.48.3/ios/PERSIAN_MOVIE/PERSIAN_MOVIE.m3u8
-
-#EXTINF: Persian Star 2
-http://63.237.48.3/ios/PERSIAN_STAR_2/PERSIAN_STAR_2.m3u8
-
-
-
- 
-
-#EXTINF: BBC Persianhttp://63.237.48.3/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
-
-#EXTINF: Persian Music
-http://63.237.48.3/ios/PERSIAN_MUSIC/PERSIAN_MUSIC.m3u8
-
-#EXTINF: TI Tapesh TV
-http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-
-#EXTINF: Gem Life
-http://63.237.48.3/ios/GEL_LIFE/GEL_LIFE.m3u8
-
-#EXTINF: AAA Family
-http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-
-#EXTINF: ITN TV
-http://63.237.48.3/ios/ITN/ITN.m3u8
-
-#EXTINF: Face 2
-http://63.237.48.3/ios/FACE2/FACE2.m3u8
-
-#EXTINF: Tik TV
-http://63.237.48.3/ios/TIK_TV/TIK_TV.m3u8
-
-#EXTINF: IR FMTV
-http://63.237.48.3/ios/IRAN_FMTV/IRAN_FMTV.m3u8
-
-#EXTINF: Merci TV
-http://63.237.48.3/ios/MERCI_TV/MERCI_TV.m3u8
-
-#EXTINF: Iran MNTV
-http://63.237.48.3/ios/IRAN_MNTV/IRAN_MNTV.m3u8
-
-#EXTINF: MI TV
-http://63.237.48.3/ios/MI_TV/MI_TV.m3u8
-
-#EXTINF: Iran A TV
-http://63.237.48.3/ios/IRAN_A_TV/IRAN_A_TV.m3u8
-
-#EXTINF: Iran Plus
-http://63.237.48.3/ios/IRAN_PLUS/IRAN_PLUS.m3u8
-
-#EXTINF: Iran ASTV
-http://63.237.48.3/ios/IRAN_AS_TV/IRAN_AS_TV.m3u8
-
-#EXTINF: ICC TV
-http://63.237.48.3/ios/ICC/ICC.m3u8
-
-#EXTINF:ITC TV
-http://63.237.48.3/ios/ITC/ITC.m3u8
-
-#EXTINF: Didar TV
-http://63.237.48.3/ios/DIDAR/DIDAR.m3u8
-
-#EXTINF:Melli TV
-rtmp://mellitv.tulix.tv/mellitv/myStream.sdp#EXTINF:Anis-Sat, Med Muzikrtmp://178.33.61.33:1936/medmuzik//muzikakurdi
 
 IMPORTANT NOTE:
 
@@ -226,7 +47,7 @@ Therefore, if you are doing the same, please, at least put the credits (REDENEOB
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 06-08-2015--[/COLOR]
 
 
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kan�le ---[/COLOR]
+#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanäle ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
@@ -382,7 +203,7 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 #EXTINF:-1,TV Touring Schweinfurt De
 http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/chunklist_w1127278570.m3u8
 
-#EXTINF:-0,TV Touring W�rzburg De
+#EXTINF:-0,TV Touring Würzburg De
 http://tvtouringw.iptv-playoutcenter.de:1935/tvtouringw/tvtouringw.stream_1/chunklist_w893326909.m3u8
 
 #EXTINF:-1,Tva De
@@ -398,7 +219,7 @@ rtmp://62.113.210.250/medienasa-live/mp4:ran1_high
 rtmp://62.113.210.250/medienasa-live/rbw_high
 
 #EXTINF:-1 group-title="BUSSINESS",BUSINESS TV GERMANY
-mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃ‚
+mmsh://wt-wm1.wtnet.de/noa4hh-stream-mid?MSWMExt=.asfÃâ
 
 #EXTINF:-1 group-title="EUROPE",ALEX-BERLIN GERMANY
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/SAT_TOTAL.m3u8
@@ -430,10 +251,10 @@ rtsp://streamer1.streamhost.org:1935/salive/lctvde
 #EXTINF:-1 group-title="EUROPE",LT - TV Baden Wuerttemberg GERMANY
 rtmp://62.113.210.105/ltv-live/livestream
 
-#EXTINF:-1 group-title="EUROPE",M�nchen TV GERMANY
+#EXTINF:-1 group-title="EUROPE",München TV GERMANY
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/.m3u8
 
-#EXTINF:-1 group-title="EUROPE",M�hlviertel TV AU GERMANY
+#EXTINF:-1 group-title="EUROPE",Mühlviertel TV AU GERMANY
 mms://wmsstream22.v4.mytv.ris.at/live/stream_149
 
 #EXTINF:-1 group-title="EUROPE",N24 GERMANY
