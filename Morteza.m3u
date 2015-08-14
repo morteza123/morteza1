@@ -23,15 +23,6 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m
 #EXTINF::-1, RMC
 rtmp://fms.105.net/live/rmc1
 
-
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 06-08-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 06-08-2015--[/COLOR]
-
-
-#EXTINF:-1,[COLOR yellow]--- Deutsch-Kanäle ---[/COLOR]
-http://0.0.0.0:1234
-
 #EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
 http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-b.m3u8?sd=10&rebase=on
 
@@ -282,17 +273,6 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
 
 
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 06-07-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 06-07-2015--[/COLOR]  
-
-#EXTINF:-1,[COLOR yellow]--- HD CHANNELS ---[/COLOR]
-http://0.0.0.0:1234
 
 #EXTINF: -1, ANTENA 3 HD (FULL HD)
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
@@ -591,12 +571,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,VOX Music HD 720P
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 05-07-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green]--REDENEOBUX.COM 05-07-2015--[/COLOR]  
-
-#EXTINF:-1,[COLOR yellow]--- NILESAT IPTV ---[/COLOR]
-http://0.0.0.0:1234
 
 #EXTINF:-1,Dubai TV
 http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/gmswf.m3u8
