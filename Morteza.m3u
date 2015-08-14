@@ -1116,3 +1116,11 @@ http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:-1,TURK:A SPOR
 http://hls.turkuvazgroup.net/aspor/aspor3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
+#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
