@@ -17,6 +17,9 @@ http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
 #EXTINF:-1,Irib 3 HD
 http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
 
+#EXTINF::-1, MANOTO TV
+http://manoto1_live-lh.akamaihd.net/i/Manoto1_0@50710/index_385_av-b.m3u8
+
 #EXTINF::-1, PMC
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
 
