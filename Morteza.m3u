@@ -23,6 +23,9 @@ http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m
 #EXTINF::-1, RMC
 rtmp://fms.105.net/live/rmc1
 
+#EXTINF::-1, MTC
+rtmp://mellitv.tulix.tv/mellitv/myStream.sdp
+
 #EXTINF::-1, IRINN
 http://63.237.48.23/ios/IRINN/IRINN.m3u8
 
