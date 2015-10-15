@@ -114,6 +114,23 @@ http://185.5.222.227:4242/bysid/5603
 #EXTINF:0,#EXTINF:-1, Almas TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 
+#EXTINF:0,#EXTINF:-1,Funoon TV
+http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+#EXTINF:0,#EXTINF:-1,Aljazeera
+rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live/aljazeera_doc_high
+#EXTINF:0,#EXTINF:-1,Al Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:0,#EXTINF:-1,cna
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:0,#EXTINF:-1, Syria
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, Sama Syria
+rtmp://sama-tv.net/live/samatv
+#EXTINF:0,#EXTINF:-1, Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:0,#EXTINF:-1, Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SF1.ch" tvg-logo="sf1.png",SRF 1
 http://streaming-hub.com/tv/i/sf1_1@97474/index_1300_av-b.m3u8?sd=10&rebase=on
 
