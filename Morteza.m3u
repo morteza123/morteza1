@@ -1232,3 +1232,16 @@ http://xrxs.net/video/live-p12baya-2328.m3u8?Vd?u#bt!25
 http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
 #EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Mountain 1080 HD
 http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
+
+#EXTINF:0, SKY SPORT 1
+rtmp://185.53.90.32/live/ss12sky1
+#EXTINF:0, SKY SPORT 2
+rtmp://80.82.65.162/live/ss2skys
+#EXTINF:0, SKY SPORT 3
+rtmp://185.53.90.42/live/ss3skys
+#EXTINF:0, SKY SPORT 4
+rtmp://185.53.90.34/live/ss4skys
+#EXTINF:0, SKY SPORT 5
+rtmp://80.82.70.155/live/skys5ssd5
+#EXTINF:0, WWE
+rtmp://89.248.169.50/live/wwen
