@@ -1234,16 +1234,16 @@ http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
 http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
 
 #EXTINF:0, SKY SPORT 1
-rtmp://89.248.168.217/live/vskys1
+rtmp://80.82.70.155/live/vskys1
 #EXTINF:0, SKY SPORT 2
-rtmp://80.82.78.23/live/vskys2
+rtmp://185.53.90.35/live/vskys2
 #EXTINF:0, SKY SPORT 3
-rtmp://80.82.78.165/live/vskys3
+rtmp://89.248.169.50/live/vskys3
 #EXTINF:0, SKY SPORT 4
-rtmp://80.82.78.24/live/vskys4
+rtmp://89.248.169.35/live/vskys4
 #EXTINF:0, SKY SPORT 5
-rtmp://80.82.65.162/live/vskys5
+rtmp://80.82.78.24/live/vskys5
 #EXTINF:0, SKY SPORT F1
-rtmp://80.82.65.162/live/vskysf1
+rtmp://185.53.90.35/live/vskysf1
 #EXTINF:0, WWE
 rtmp://185.53.90.35/live/wwen
