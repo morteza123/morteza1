@@ -117,27 +117,6 @@ http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 #EXTINF:-1,ARD 
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
 
-#EXTINF:-1,DMAX
-http://81.92.105.134:5555/pl.m3u8?channel=18
-
-#EXTINF:-1,TELE5 
-http://81.92.105.134:5555/pl.m3u8?channel=58
-
-#EXTINF:-1,RTL NITRO HD 
-http://81.92.105.134:5555/pl.m3u8?channel=47
-
-#EXTINF:-1,SIXX HD
-http://81.92.105.134:5555/pl.m3u8?channel=52
-
-#EXTINF:-1,KABEL Eins 
-http://81.92.105.134:5555/pl.m3u8?channel=30
-
-#EXTINF:0,SERVUSTV HD 
-http://81.92.105.134:5555/pl.m3u8?channel=51
-
-#EXTINF:0,Servus TV AT
-http://streaming-hub.com/tv/i/servus_1@97488/index_1300_av-p.m3u8
-
 #EXTINF:-1,ALEX TV 1024*576
 http://alex-stream.rosebud-media.de/live/alexlivetv.smil/chunklist_w629559966_b1200000_slGER.m3u8
 
