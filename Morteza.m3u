@@ -159,9 +159,6 @@ http://apasfiisl.apa.at/ipad/orfs_q6a/orf.sdp/playlist.m3u8
 #EXTINF:-1, Telebarn
 http://rtmp.infomaniak.ch/livecast/barntele/media_w2076947800_2120.ts
 
-#EXTINF:-1,OKTO (Austria)
-http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-high.stream/chunklist_w2017128230.m3u8
-
 #EXTINF:-1,Austria 24 De
 rtmp://streaming.austria24.tv/live/stream_360p
 
