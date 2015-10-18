@@ -114,38 +114,8 @@ http://185.5.222.227:4242/bysid/5603
 #EXTINF:0,#EXTINF:-1, Almas TV
 http://63.237.48.23/ios/ALMAS_TV/ALMAS_TV.m3u8
 
-#EXTINF:-1 tvg-id="Kika.de" tvg-logo="kika.png",KIKA
-http://streaming-hub.com/tv/i/kika_1@97487/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="nick.png",NICKELODEON
-http://streaming-hub.com/tv/i/nickcc_1@97455/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="zdf.png",ZDF
-http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Sat1.ch" tvg-logo="sat1.png",SAT 1
-http://streaming-hub.com/tv/i/sat1_1@97461/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="rtl.png",RTL
-http://streaming-hub.com/tv/i/rtl_1@97459/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="rtl2.png",RTL 2
-http://streaming-hub.com/tv/i/rtl2_1@97460/index_1300_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Pro7.ch" tvg-logo="pro7.png",PRO 7
-http://streaming-hub.com/tv/i/prosieben_1@97456/index_1300_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1,ARD 
 http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
-
-#EXTINF:-1,7MAXX
-http://81.92.105.134:5555/pl.m3u8?channel=41
-
-#EXTINF:-1,3SAT
-http://81.92.105.134:5555/pl.m3u8?channel=9
-
-#EXTINF:-1,PHOENIX
-http://81.92.105.134:5555/pl.m3u8?channel=38
 
 #EXTINF:-1,DMAX
 http://81.92.105.134:5555/pl.m3u8?channel=18
