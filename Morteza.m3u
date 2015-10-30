@@ -17,6 +17,9 @@ http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
 #EXTINF:-1,Irib 3 HD
 http://63.237.48.23/ios/ICC/ICC.m3u8
 
+#EXTINF::-1, VARZESH TV1
+rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSA0OjQ4OjQyIFBNJmhhc2hfdmFsdWU9ODNocjVTeXlyNk9WYitqbnVCQjh4Zz09JnZhbGlkbWludXRlcz02MDAw/varzesh-1000k.stream
+
 #EXTINF::-1, PMC
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
 
