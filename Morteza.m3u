@@ -1144,19 +1144,19 @@ http://xrxs.net/video/live-p12losa-4728.m3u8?Vd?u#bt!25
 http://xrxs.net/video/live-p12moun-4728.m3u8?Vd?u#bt!25
 
 #EXTINF:0, SKY SPORT 1
-rtmp://185.53.90.33/live/vskys1
+rtmp://80.82.64.213/live/bcskys1
 #EXTINF:0, SKY SPORT 2
-rtmp://185.53.90.35/live/vskys2
+rtmp://93.174.93.135/live/bcskys2
 #EXTINF:0, SKY SPORT 3
-rtmp://185.53.90.43/live/vskys3
+rtmp://80.82.78.29/live/bcskys3
 #EXTINF:0, SKY SPORT 4
-rtmp://89.248.174.38/live/vskys4
+rtmp://94.102.56.157/live/bcskys4
 #EXTINF:0, SKY SPORT 5
-rtmp://80.82.78.24/live/vskys5
+rtmp://80.82.78.29/live/bcskys5
 #EXTINF:0, SKY SPORT F1
-rtmp://185.53.90.35/live/vskysf1
+rtmp://80.82.78.3/live/bcskysf1
 #EXTINF:0, WWE
-rtmp://185.53.90.35/live/wwen
+rtmp://89.248.168.200/live/ddwwenw
 #EXTINF:-1, Fox sports2
 http://192.99.147.19:5808/foxsports2/playlist.m3u8
 
