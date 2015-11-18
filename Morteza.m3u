@@ -33,7 +33,10 @@ rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA
 rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjMyOjEwIFBNJmhhc2hfdmFsdWU9T3NvSUJXM1ozcGMrZHFyVGdzb0p5QT09JnZhbGlkbWludXRlcz02MDAw/aftab-300k.stream
 #EXTINF:-1, AFLAK
 rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjMyOjUwIFBNJmhhc2hfdmFsdWU9ZUNDSjZ2cXM1QmFxVGFSN2dXUkpHQT09JnZhbGlkbWludXRlcz02MDAw/aflak-300k.stream
-#EXTINF:-1,
+#EXTINF:-1, KORDESTAN
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjMzOjU3IFBNJmhhc2hfdmFsdWU9NHNQUFh5NXBvRExINDVjaUFzSW5Pdz09JnZhbGlkbWludXRlcz02MDAw/kordestan-300k.stream
+#EXTINF:-1, KHALIJEFARS
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjM2OjEzIFBNJmhhc2hfdmFsdWU9ck5CNkVIR253V2JLcnB6bFk1QW90QT09JnZhbGlkbWludXRlcz02MDAw/khalijefars-300k.stream
 #EXTINF::-1, VARZESH TV1
 rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSA1Ojk6MTggUE0maGFzaF92YWx1ZT1YdUdtdGpPUXh5QmN2a2xNT3JQU2dBPT0mdmFsaWRtaW51dGVzPTYwMDA=/varzesh-500k.streamwSG5GZGc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==/bck2varzesh-1000k.stream
 #EXTINF::-1, PMC
