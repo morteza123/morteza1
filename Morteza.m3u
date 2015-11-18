@@ -19,6 +19,21 @@ http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
 
 #EXTINF:-1, KHOZESTAN
 rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjIxOjE3IFBNJmhhc2hfdmFsdWU9RjZqdU1qODYzRi9BeThHaDlIQ1BZUT09JnZhbGlkbWludXRlcz02MDAw/khoozestan-300k.stream
+#EXTINF:-1, BARAN
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjI1OjE0IFBNJmhhc2hfdmFsdWU9SUdzS09lQk1MZGR0WSsxWiswKzV2QT09JnZhbGlkbWludXRlcz02MDAw/baran-300k.stream
+#EXTINF:-1, ESFAHAN
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjI3OjEgUE0maGFzaF92YWx1ZT1NOTY5b2ozNXdjaERXZjQ2WWxuYXVnPT0mdmFsaWRtaW51dGVzPTYwMDA=/esfahan-300k.stream
+#EXTINF:-1, SAHAND
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjI4OjkgUE0maGFzaF92YWx1ZT1xSVhjd0RvV3J0MVUrbTM3czNVTG53PT0mdmFsaWRtaW51dGVzPTYwMDA=/sahand-300k.stream
+#EXTINF:-1, FARS
+rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjI5OjIwIFBNJmhhc2hfdmFsdWU9bjdBc1BxNFFNSGZtOFFDSlFYV1FoUT09JnZhbGlkbWludXRlcz02MDAw/fars-300k.stream
+#EXTINF:-1, SEMNAN
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjMxOjI4IFBNJmhhc2hfdmFsdWU9VjMwVzY0MGsvQVR6Ny9GTitaZVp6UT09JnZhbGlkbWludXRlcz02MDAw/semnan-300k.stream
+#EXTINF:-1, AFTAB
+rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjMyOjEwIFBNJmhhc2hfdmFsdWU9T3NvSUJXM1ozcGMrZHFyVGdzb0p5QT09JnZhbGlkbWludXRlcz02MDAw/aftab-300k.stream
+#EXTINF:-1, AFLAK
+rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjMyOjUwIFBNJmhhc2hfdmFsdWU9ZUNDSjZ2cXM1QmFxVGFSN2dXUkpHQT09JnZhbGlkbWludXRlcz02MDAw/aflak-300k.stream
+#EXTINF:-1,
 #EXTINF::-1, VARZESH TV1
 rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSA1Ojk6MTggUE0maGFzaF92YWx1ZT1YdUdtdGpPUXh5QmN2a2xNT3JQU2dBPT0mdmFsaWRtaW51dGVzPTYwMDA=/varzesh-500k.streamwSG5GZGc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==/bck2varzesh-1000k.stream
 #EXTINF::-1, PMC
