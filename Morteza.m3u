@@ -15,7 +15,7 @@ http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
 http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
 
 #EXTINF:-1,Irib 3 HD
-http://63.237.48.23/ios/IRIB_TV3/IRIB_TV3.m3u8
+http://live5.asset.filimo.com/edge/tv1/hls/tv1_high/chunks.m3u8?nimblesessionid=392662
 #EXTINF:-1, IRIB HD TV
 http://live5.asset.filimo.com/edge/hd/hls/hd_mid/chunks.m3u8
 #EXTINF:-1, KHOZESTAN
