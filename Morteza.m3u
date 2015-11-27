@@ -1201,7 +1201,7 @@ rtmp://80.82.78.29/live/bcskys5
 #EXTINF:0, SKY SPORT F1
 rtmp://80.82.78.3/live/bcskysf1
 #EXTINF:0, WWE
-rtmp://89.248.168.200/live/ddwwenw
+rtmp://93.174.93.201/live/khanwwe
 #EXTINF:-1, Fox sports2
 http://192.99.147.19:5808/foxsports2/playlist.m3u8
 
