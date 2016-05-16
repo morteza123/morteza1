@@ -15,7 +15,7 @@ http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
 http://63.237.48.23/ios/IRIB_TV5/IRIB_TV5.m3u8
 
 #EXTINF:-1,Irib 3 HD
-rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOC8yMDE2IDU6NDQ6NTMgUE0maGFzaF92YWx1ZT1pZ3l0dHA5VXVYQ0pkZjA4YmVRc3RRPT0mdmFsaWRtaW51dGVzPTYwMDA=/tv3-500k.stream
+rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDE2IDg6MTA6NCBQTSZoYXNoX3ZhbHVlPUJRYUhDU1Q1ZVhwMTlPdzZMR0lDdXc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==/tv3-500k.stream
 #EXTINF:-1, IFILM
 http://live6.asset.filimo.com/edge/ifilm/hls/ifilm_high/chunks.m3u8?nimblesessionid=2165042
 #EXTINF:-1, NAMAYESH
