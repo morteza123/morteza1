@@ -52,6 +52,10 @@ rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA
 rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjM2OjEzIFBNJmhhc2hfdmFsdWU9ck5CNkVIR253V2JLcnB6bFk1QW90QT09JnZhbGlkbWludXRlcz02MDAw/khalijefars-300k.stream
 #EXTINF::-1, VARZESH TV1
 rtmp://s1.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNSA1Ojk6MTggUE0maGFzaF92YWx1ZT1YdUdtdGpPUXh5QmN2a2xNT3JQU2dBPT0mdmFsaWRtaW51dGVzPTYwMDA=/varzesh-500k.streamwSG5GZGc9PSZ2YWxpZG1pbnV0ZXM9NjAwMA==/bck2varzesh-1000k.stream
+
+#EXTINF::-1, VARZESH TV
+http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
+
 #EXTINF::-1, PMC
 http://iphone-streaming.ustream.tv/ustreamVideo/18021529/streams/live/playlist.m3u8
 
@@ -78,9 +82,6 @@ rtmp://mellitv.tulix.tv/mellitv/myStream.sdp
 
 #EXTINF::-1, IRINN
 http://63.237.48.23/ios/IRINN/IRINN.m3u8
-
-#EXTINF::-1, VARZESH TV
-http://63.237.48.23/ios/VARZESH_TV/VARZESH_TV.m3u8
 
 #EXTINF::-1, IFILM
 http://63.237.48.23/ios/IFILM/IFILM.m3u8
