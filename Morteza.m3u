@@ -20,6 +20,9 @@ http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
 #EXTINF:-1, IRIB TV 3
 http://s3.telewebion.com:1935/devices/bck2tv3-1000k.stream/chunklist_w227876062.m3u8
 
+#EXTINF:-1, IRIB TV 3 SD
+rtmp://live.video.asandl.com/devices//tv3-300k.stream
+
 #EXTINF:-1, IRIB TV 4 HD
 http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
 
