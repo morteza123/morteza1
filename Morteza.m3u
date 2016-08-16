@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, MANOTO TV
+http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
+
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 
@@ -13,6 +16,9 @@ http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 
 #EXTINF:-1, IRIB TV 3 HD
 http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
+
+#EXTINF:-1, IRIB TV 3
+http://s3.telewebion.com:1935/devices/bck2tv3-1000k.stream/chunklist_w227876062.m3u8
 
 #EXTINF:-1, IRIB TV 4 HD
 http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
