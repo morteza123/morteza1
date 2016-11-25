@@ -60,7 +60,7 @@ rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA
 #EXTINF:-1, KHALIJEFARS
 rtmp://s3.telewebion.com/live-secure?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxNSA5OjM2OjEzIFBNJmhhc2hfdmFsdWU9ck5CNkVIR253V2JLcnB6bFk1QW90QT09JnZhbGlkbWludXRlcz02MDAw/khalijefars-300k.stream
 #EXTINF::-1, VARZESH TV1
-http://s3.telewebion.com:1935/devices/varzesh-300k.stream/chunklist_w1416213649.m3u8
+http://s3.telewebion.com:1935/devices/varzesh-500k.stream/chunklist_w1299161913.m3u8
 
 #EXTINF::-1, VARZESH TV
 http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
