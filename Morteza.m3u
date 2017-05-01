@@ -21,7 +21,7 @@ http://63.237.48.28/ios/IRIB_TV3/IRIB_TV3.m3u8
 http://s3.telewebion.com:1935/devices/bck2tv3-1000k.stream/chunklist_w227876062.m3u8
 
 #EXTINF:-1, IRIB TV 3 SD
-http://38.99.146.180:7777/IRIBChannel3/IRIBChannel3_LR.m3u8?user=sgls62236571&session=1f1afe72fba8bcd516723d2b1c58acbdf53007fe01b7c865b1cefe6ca78d2e637e466011f403a58bea788242cf85cc50&hlsid=HTTP_ID_287042&group_id=62236571&starttime=20160729T175231.896588
+http://77.238.121.146:1935/live/smil:test2/chunklist_w548576405_b1180278_slFA.m3u8
 
 #EXTINF:-1, IRIB TV 4 HD
 http://63.237.48.23/ios/IRIB_TV4/IRIB_TV4.m3u8
