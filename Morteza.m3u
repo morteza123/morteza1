@@ -2,8 +2,14 @@
 #EXTINF:-1, MANOTO TV
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 
-#EXTINF:-1, Shahrzad2
-http://proxy-083.dc3.dailymotion.com/sec(4be95d4018e819625c2c986de1b7b29a)/video/175/889/349988571_mp4_h264_aac_hd.m3u8
+#EXTINF:-1, Panchari 1
+http://proxy-056.dc3.dailymotion.com/sec(4dba428fd501b3754f8794c0321f5afd)/video/745/888/349888547_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Panchari 2
+http://proxy-034.dc3.dailymotion.com/sec(3e91809e6e3dc0b00a4ae0e51088aa43)/video/384/369/349963483_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Panchari 3
+http://proxy-005.dc3.dailymotion.com/sec(2b3afac7611e45fe6b6a24d0b2730827)/video/250/360/350063052_mp4_h264_aac_hd.m3u8
 
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
