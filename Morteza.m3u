@@ -2,6 +2,9 @@
 #EXTINF:-1, MANOTO TV
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 
+#EXTINF:-1, Shahrzad2
+http://proxy-083.dc3.dailymotion.com/sec(4be95d4018e819625c2c986de1b7b29a)/video/175/889/349988571_mp4_h264_aac_hd.m3u8
+
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 
