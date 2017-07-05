@@ -8,8 +8,14 @@ http://proxy-056.dc3.dailymotion.com/sec(4dba428fd501b3754f8794c0321f5afd)/video
 #EXTINF:-1, Panchari 2
 http://proxy-034.dc3.dailymotion.com/sec(3e91809e6e3dc0b00a4ae0e51088aa43)/video/384/369/349963483_mp4_h264_aac_hd.m3u8
 
-#EXTINF:-1, Panchari 3
+#EXTINF:-1,Panchari 3
 http://proxy-005.dc3.dailymotion.com/sec(2b3afac7611e45fe6b6a24d0b2730827)/video/250/360/350063052_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Panchari 4
+http://proxy-048.dc3.dailymotion.com/sec(0aee5593cdc5ea9bbd29bc8921fabdc0)/video/735/652/350256537_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Asheghane 13
+http://proxy-043.dc3.dailymotion.com/sec(eadcae4dfb5390b00d3662bb584219ac)/video/884/233/350332488_mp4_h264_aac_hd_2.m3u8
 
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
