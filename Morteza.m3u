@@ -20,6 +20,9 @@ http://proxy-079.dc3.dailymotion.com/sec(6e8ed137d311bfff833978cd835f01c5)/video
 #EXTINF:-1, Asheghane 13
 http://proxy-043.dc3.dailymotion.com/sec(eadcae4dfb5390b00d3662bb584219ac)/video/884/233/350332488_mp4_h264_aac_hd_2.m3u8
 
+#EXTINF:-1, animation
+http://hw16.asset.aparat.com/aparat-video/6e62b8f887c4468b431a0cd1cffca9ca5668039-270p__65851.apt/chunk.m3u8
+
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 
