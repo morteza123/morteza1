@@ -17,8 +17,17 @@ http://proxy-048.dc3.dailymotion.com/sec(0aee5593cdc5ea9bbd29bc8921fabdc0)/video
 #EXTINF:-1, Panchari 5
 http://proxy-079.dc3.dailymotion.com/sec(6e8ed137d311bfff833978cd835f01c5)/video/156/604/350406651_mp4_h264_aac_hd.m3u8
 
-#EXTINF:-1, Asheghane 13
-http://proxy-043.dc3.dailymotion.com/sec(eadcae4dfb5390b00d3662bb584219ac)/video/884/233/350332488_mp4_h264_aac_hd_2.m3u8
+#EXTINF:-1, Panchari 6
+http://proxy-010.dc3.dailymotion.com/sec(e07e570699bb8706fa9e14ccbf11a531)/video/083/289/350982380_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Panchari 7
+http://proxy-054.dc3.dailymotion.com/sec(49cdc744118cc832dd253dd43e9de2a7)/video/111/980/351089111_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Panchari 8
+http://proxy-029.dc3.dailymotion.com/sec(f7be080e55c626cb8ad93c5d13f353a9)/video/167/980/351089761_mp4_h264_aac_hd.m3u8
+
+#EXTINF:-1, Shahrzad 3
+http://proxy-068.dc3.dailymotion.com/sec(1fa195adec163f789f95e311d97eb9b3)/video/145/921/351129541_mp4_h264_aac_hd.m3u8
 
 #EXTINF:-1, animation
 http://hw16.asset.aparat.com/aparat-video/6e62b8f887c4468b431a0cd1cffca9ca5668039-270p__65851.apt/chunk.m3u8
