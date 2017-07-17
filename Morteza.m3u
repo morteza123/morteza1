@@ -29,6 +29,9 @@ http://proxy-029.dc3.dailymotion.com/sec(f7be080e55c626cb8ad93c5d13f353a9)/video
 #EXTINF:-1, Shahrzad 3
 http://proxy-068.dc3.dailymotion.com/sec(1fa195adec163f789f95e311d97eb9b3)/video/145/921/351129541_mp4_h264_aac_hd.m3u8
 
+#EXTINF:-1, Shahrzad 4
+http://proxy-058.dc3.dailymotion.com/sec(b9e7d2a79502c0e668298428c313eb08)/video/225/454/352454522_mp4_h264_aac_hd_2.m3u8
+
 #EXTINF:-1, animation
 http://hw16.asset.aparat.com/aparat-video/6e62b8f887c4468b431a0cd1cffca9ca5668039-270p__65851.apt/chunk.m3u8
 
