@@ -2,38 +2,8 @@
 #EXTINF:-1, MANOTO TV
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 
-#EXTINF:-1, Panchari 1
-http://proxy-056.dc3.dailymotion.com/sec(4dba428fd501b3754f8794c0321f5afd)/video/745/888/349888547_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Panchari 2
-http://proxy-034.dc3.dailymotion.com/sec(3e91809e6e3dc0b00a4ae0e51088aa43)/video/384/369/349963483_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1,Panchari 3
-http://proxy-005.dc3.dailymotion.com/sec(2b3afac7611e45fe6b6a24d0b2730827)/video/250/360/350063052_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Panchari 4
-http://proxy-048.dc3.dailymotion.com/sec(0aee5593cdc5ea9bbd29bc8921fabdc0)/video/735/652/350256537_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Panchari 5
-http://proxy-079.dc3.dailymotion.com/sec(6e8ed137d311bfff833978cd835f01c5)/video/156/604/350406651_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Panchari 6
-http://proxy-010.dc3.dailymotion.com/sec(e07e570699bb8706fa9e14ccbf11a531)/video/083/289/350982380_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Panchari 7
-http://proxy-054.dc3.dailymotion.com/sec(49cdc744118cc832dd253dd43e9de2a7)/video/111/980/351089111_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Panchari 8
-http://proxy-029.dc3.dailymotion.com/sec(f7be080e55c626cb8ad93c5d13f353a9)/video/167/980/351089761_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Shahrzad 3
-http://proxy-068.dc3.dailymotion.com/sec(1fa195adec163f789f95e311d97eb9b3)/video/145/921/351129541_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, Shahrzad 4
-http://proxy-058.dc3.dailymotion.com/sec(b9e7d2a79502c0e668298428c313eb08)/video/225/454/352454522_mp4_h264_aac_hd_2.m3u8
-
-#EXTINF:-1, animation
-http://hw16.asset.aparat.com/aparat-video/6e62b8f887c4468b431a0cd1cffca9ca5668039-270p__65851.apt/chunk.m3u8
+#EXTINF:-1, Asheghane 16
+http://iruk.tv/asheghaneh-16/
 
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
