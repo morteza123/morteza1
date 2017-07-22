@@ -8,6 +8,10 @@ http://proxy-061.dc3.dailymotion.com/sec(4fbdb829a58d8057e776897bcc37c163)/video
 #EXTINF:-1, Panchari 15
 http://proxy-069.dc3.dailymotion.com/sec(ab6f2838820fe70cb6f4f72654af2029)/video/170/578/352875071_mp4_h264_aac_hd.m3u8
 
+#EXTINF:-1, Legioner 1
+http://proxy-084.dc3.dailymotion.com/sec(ddfce542a47765f6d44a53e80fff7375)/video/266/225/353522662_mp4_h264_aac_hd.m3u8
+
+
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 
