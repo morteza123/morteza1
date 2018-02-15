@@ -2,32 +2,13 @@
 #EXTINF:-1, MANOTO TV
 http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 
-#EXTINF:-1, WWE Survivor Series 2017 Part 1
-http://proxy-018.ix7.dailymotion.com/sec(8a5567097ffd7552fdde9ec4e885d1ad)/video/047/355/379553740_mp4_h264_aac_hd.m3u8
+#EXTINF:-1, WWE Raw Part 1
+http://proxy-051.dc3.dailymotion.com/sec(xc4a8be3a2f83392c8d003725a85caa0)/video/483/364/387463384_mp4_h264_aac_hd.m3u8
 
-#EXTINF:-1, WWE Survivor Series 2017 Part 2
-http://proxy-029.ix7.dailymotion.com/sec(2b24a795d00fa8ce90877b480d71ce04)/video/147/355/379553741_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Survivor Series 2017 Part 3
-http://proxy-040.dc3.dailymotion.com/sec(24b3077426a57ed8397c9fc223a37002)/video/247/355/379553742_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Survivor Series 2017 Part 4
-http://proxy-066.dc3.dailymotion.com/sec(868f4e53a925f6766af8bc6532a6f26b)/video/388/355/379553883_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Raw part 1
-http://proxy-019.ix7.dailymotion.com/sec(d9dedee36846b1145d9774b0681e2987)/video/826/708/379807628_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Raw part 2
-http://proxy-052.dc3.dailymotion.com/sec(065d5765147ddd2fe0bd5420a24b8dfd)/video/926/708/379807629_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Raw part 3
-http://proxy-054.dc3.dailymotion.com/sec(822f5b1c3292c6b8d276982404ebe7ad)/video/236/708/379807632_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Smackdown Part 1
-http://vid2-ec.dmcdn.net/sec(8cf114b0c1a29e83ce5dd8887e33347d)/video/793/070/380070397_mp4_h264_aac_hd.m3u8
-
-#EXTINF:-1, WWE Smackdown Part 2
-http://proxy-070.dc3.dailymotion.com/sec(a0a2057cd7074eb32343247546eed4ac)/video/420/170/380071024_mp4_h264_aac_hd.m3u8
+#EXTINF:-1, Raw Part 2
+http://proxy-050.dc3.dailymotion.com/sec(x15fff71f6a9a90831d7b4855a85caa0)/video/583/364/387463385_mp4_h264_aac_hd.m3u8
+#EXTINF:-1, Raw Part 3
+http://proxy-002.ix7.dailymotion.com/sec(x650638821e4879ac645d9b45a85caa0)/video/683/364/387463386_mp4_h264_aac_hd.m3u8
 
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
