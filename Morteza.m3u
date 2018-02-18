@@ -5,10 +5,7 @@ http://63.237.48.28/ios/MANOTO_1/MANOTO_1.m3u8
 #EXTINF:-1, WWE Raw Part 1
 http://proxy-051.dc3.dailymotion.com/sec(xc4a8be3a2f83392c8d003725a85caa0)/video/483/364/387463384_mp4_h264_aac_hd.m3u8
 
-#EXTINF:-1, Raw Part 2
-http://proxy-050.dc3.dailymotion.com/sec(x15fff71f6a9a90831d7b4855a85caa0)/video/583/364/387463385_mp4_h264_aac_hd.m3u8
-#EXTINF:-1, Raw Part 3
-http://proxy-002.ix7.dailymotion.com/sec(x650638821e4879ac645d9b45a85caa0)/video/683/364/387463386_mp4_h264_aac_hd.m3u8
+http://proxy-025.ix7.dailymotion.com/sec(xbb8427e2cdd6ad87f8da0be5a89bf20)/video/619/564/387465916_mp4_h264_aac_hd.m3u8
 
 #EXTINF:-1, IRIB TV 1 HD
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
